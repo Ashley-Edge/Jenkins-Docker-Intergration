@@ -29,8 +29,10 @@ export default {
 <style scoped>
 
 .headerbox{
-  background: green;
+  background: lightblue;
   margin: 0 13em;
-  border-top-left-radius: 1em;
+  border-top-left-radius: 1em;  
   border-top-right-radius: 1em;
 }
+
+</style>
